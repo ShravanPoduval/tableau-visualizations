@@ -1,1 +1,11 @@
-Interactive Tableau dashboards showcasing data analysis projects
+# Tableau Visualizations
+
+A collection of Tableau projects showcasing data analysis and interactive dashboards.
+
+## 📂 Projects
+- **British Airways Revenue Dashboard** – Analyzed route-wise revenue and trends.  
+- More projects coming soon.
+
+## 🧰 Tools
+- Tableau  
+- Excel / SQL (for data preparation)
