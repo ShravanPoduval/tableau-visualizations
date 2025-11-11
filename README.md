@@ -1,1 +1,1 @@
-Interactive Power BI dashboards showcasing data analysis projects
+Interactive Tableau dashboards showcasing data analysis projects
