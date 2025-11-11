@@ -6,6 +6,5 @@ A collection of Tableau projects showcasing data analysis and interactive dashbo
 - **British Airways Revenue Dashboard** – Analyzed route-wise revenue and trends.  
 - More projects coming soon.
 
-## 🧰 Tools
+ 🧰 Tools
 - Tableau  
-- Excel / SQL (for data preparation)
